@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fbdaaa02b98f8640",
+        "id": "2c65fbbbebcf04ef",
         "type": "tabs",
         "children": [
           {
-            "id": "1a54372695413068",
+            "id": "a3b1527bdd5199e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Точка внутри многоугольника.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Точка внутри многоугольника"
+              "title": "index"
             }
           }
         ]
@@ -175,18 +175,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a54372695413068",
+  "active": "a3b1527bdd5199e1",
   "lastOpenFiles": [
-    "Algorithms/Точки и прямые.md",
-    "Anal Data/Корреляция Пирсона.md",
-    "Algorithms/Точка внутри многоугольника.md",
+    "Algorithms/Наибольшая общая подпоследовательность.md",
+    "Algorithms/Жадный алгоритм.md",
+    "Algorithms/Общие приемы динамики.md",
     "index.md",
-    "Algorithms/Разреженная таблица.md",
+    "Algorithms/Бинарный поиск.md",
+    "Algorithms/Дерево отрезков.md",
+    "Algorithms/Точка внутри многоугольника.md",
     "Algorithms/Декартово дерево.md",
+    "Algorithms/Асимптотика.md",
+    "Algorithms/Разреженная таблица.md",
+    "Algorithms/Точки и прямые.md",
+    "cs/segment-tree.md",
+    "cs",
+    "Anal Data/Корреляция Пирсона.md",
     "Algorithms/Алгоритмы.md",
     "Anal Data/Анализ Данных.md",
     "MatStat/Матстат.md",
-    "Algorithms/Асимптотика.md",
     "MatStat/Условная матожидание.md",
     "MatStat/Случайная Величина.md",
     "Linux.md",
@@ -197,21 +204,15 @@
     "MatStat/Оценка качества в задачах классификации и регрессии/Точность (Precision).md",
     "MatStat/Оценка качества в задачах классификации и регрессии/Полнота (Recall).md",
     "MatStat/Оценка качества в задачах классификации и регрессии/Аккуратность (Accuracy).md",
-    "_debug_remotely_save/profiler_results_exported_on_1732310035788.md",
     "_debug_remotely_save",
     "MatStat/Оценка качества в задачах классификации и регрессии",
     "MatStat",
-    "Linx/Linux пользователи и группы.md",
-    "Linx/Bash helper.md",
-    "Linx/Linux etc.md",
-    "Anal Data/Knn.md",
     "Algorithms",
     "img/2_1_b7525e2dd2_5d0a4ba929.webp",
     "img",
     "Новая папка",
     "Anal Data",
     "Linx",
-    "Документация.md",
     "Без названия.canvas",
     "Linux",
     "Без названия 1.canvas"
