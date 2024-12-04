@@ -1,5 +1,11 @@
 [
-  "remotely-save",
   "obsidian-git",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "mathlinks",
+  "dataview",
+  "obsidian-style-settings",
+  "obsidian42-brat",
+  "rendered-block-link-suggestions",
+  "math-in-callout",
+  "math-booster"
 ]
