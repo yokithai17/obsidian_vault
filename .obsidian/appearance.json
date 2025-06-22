@@ -1,6 +1,8 @@
 {
-  "baseFontSize": 17,
+  "baseFontSize": 22,
   "textFontFamily": "",
   "interfaceFontFamily": "",
-  "cssTheme": "Blue Topaz"
+  "cssTheme": "Blue Topaz",
+  "baseFontSizeAction": true,
+  "monospaceFontFamily": "Cascadia Code"
 }
