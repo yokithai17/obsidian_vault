@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Механика"
             }
+          },
+          {
+            "id": "3d3f67d292980cde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Механика/Задачи/3.60.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.60"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,50 +190,22 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "floating": {
-    "id": "b42a240e45586f60",
-    "type": "floating",
-    "children": [
-      {
-        "id": "45ae6bd3a664477c",
-        "type": "window",
-        "children": [
-          {
-            "id": "fe3de3d6e0ad70dd",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9f57480f40501a20",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Механика/Работа. Энергия. мощность.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Работа. Энергия. мощность"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1439,
-        "y": 132,
-        "width": 1407,
-        "height": 1000,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "8d4198d8adcbbd09",
+  "active": "3d3f67d292980cde",
   "lastOpenFiles": [
+    "Pasted image 20250701003438.png",
+    "Механика/Задачи/Задачи по механики.md",
+    "Механика/Задачи/3.60.md",
+    "Механика/Второй закон Ньютона.md",
+    "Механика/Задачи/3.43.md",
+    "Pasted image 20250701002709.png",
+    "Pasted image 20250701002439.png",
+    "Механика/Задачи/3.11.md",
+    "Pasted image 20250701001849.png",
+    "Механика/Задачи/4.13.md",
     "Механика/Работа. Энергия. мощность.md",
-    "Механика/Третий закон Ньютона.md",
+    "Pasted image 20250701000707.png",
     "Механика/Механика.md",
+    "Механика/Третий закон Ньютона.md",
     "Механика/Описания движения материальной точки.md",
     "src/Pasted image 20250630145211.png",
     "src/Pasted image 20250630144719.png",
@@ -226,14 +213,8 @@
     "src/Pasted image 20250630143735.png",
     "src/Pasted image 20250630143017.png",
     "src/Pasted image 20250630142949.png",
-    "src/Pasted image 20250630142654.png",
-    "src/Pasted image 20250630142130.png",
-    "src/Pasted image 20250630142039.png",
     "Механика/Реактивное движение.md",
-    "Pasted image 20250630141109.png",
-    "Механика/Второй закон Ньютона.md",
     "index.md",
-    "Механика/Задачи/Задачи по механики.md",
     "Механика/Задачи/2.59.md",
     "Механика/Задачи/2.71.md",
     "Механика/Задачи/2.51.md",
@@ -247,13 +228,8 @@
     "Механика/Задачи/1.14.md",
     "Механика/Задачи/1.17.md",
     "Механика/Задачи/1.24.md",
-    "Механика/Задачи/2.1.md",
-    "Механика/Задачи/Без номера.md",
-    "Механика/Задачи/1.5.md",
     "Механика/Задачи",
-    "cs/modular.md",
     "cs",
-    "МатСтат/МатСтат.md",
     "src",
     "Без названия.canvas",
     "Untitled.canvas",
