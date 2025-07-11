@@ -32,7 +32,8 @@
       "beginProof": "\\begin{proof}",
       "endProof": "\\end{proof}",
       "insertSpace": true
-    }
+    },
+    "Excalidraw/Drawing 2025-07-11 02.29.05.excalidraw.md": {}
   },
   "extraSettings": {
     "foldDefault": "",
@@ -143,5 +144,13 @@
     "searchModalRange": "recent",
     "searchModalDvQuery": ""
   },
-  "excludedFiles": []
+  "excludedFiles": [
+    "src/Pasted image 20250711022027.png",
+    "src/Pasted image 20250704173952.png",
+    "src/Pasted image 20250704174419.png",
+    "src/Pasted image 20250704174423.png",
+    "src/Pasted image 20250704180039.png",
+    "src/Pasted image 20250704180121.png",
+    "src/Pasted image 20250704180556.png"
+  ]
 }
